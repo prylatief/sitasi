@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Automatic Citation Generator",
+  "description": "An AI-powered academic research assistant that analyzes Indonesian text, identifies claims, finds credible references, and automatically generates citations in various styles (APA, Chicago).",
+  "requestFramePermissions": []
+}
